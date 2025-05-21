@@ -5,8 +5,6 @@ Vlogify is a project designed to generate technical blog posts from various sour
 
 ![Main Image](./images/main.png)
 
-
-
 ![Upload Image](./images/upload.png)
 ![EditPost Image](./images/editpost.png)
 
