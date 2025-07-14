@@ -169,10 +169,4 @@ This command builds the application for production usage. You can then deploy th
 - I had used AssemblyAI speech to text api to transcribe media into text (Rate Limit Free Account: 5 concurrent users and 100 Hours free transcribe of speech to text api for free account).
 - This project is developed with handling small number of users not suitable for production
 
-### Contributors
 
-- [bakkeshks](https://github.com/bakkeshks)
-
-### License
-
-This project is licensed under the [MIT] License - see the LICENSE file for details.
